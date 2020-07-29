@@ -1,2 +1,2 @@
 # COE318
-All my labs from COE318 F2018
+All my labs from COE318-Software Systems F2018
